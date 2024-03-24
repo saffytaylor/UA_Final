@@ -1,0 +1,6 @@
+#adding files we don't want in the repo!
+.DS_Store
+*.ipynb_checkpoints/
+
+data
+old code.ipynb
